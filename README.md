@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+you can take a demo here: https://my-next-auth-app.vercel.app/
+
 First, run the development server:
 
 ```bash
